@@ -31,8 +31,8 @@ std::string remove_spaces(std::string input){
 }
 
 /*
-     ONLY TO BE CALLED BY RUN
-     mainly a scope used to hold all the functions
+     ONLY TO BE CALLED BY THE RUN FUNCTION!!
+     a scope used to hold all the functions
 */
 class Session{
      public:
