@@ -114,7 +114,7 @@ void run(std::string code){
                s.add(j);
                continue;
           }
-          if (f == std::string("0004")){ // SUV
+          if (f == std::string("0004")){ // SUB
                s.sub(j);
                continue;
           }
